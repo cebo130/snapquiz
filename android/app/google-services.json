@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771942512530",
+    "project_id": "snapquiz-e67e6",
+    "storage_bucket": "snapquiz-e67e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771942512530:android:c27ca299a29b2b2e4eb34b",
+        "android_client_info": {
+          "package_name": "com.snapquiz.snapquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771942512530-f35f8lafnqrrq88hudqob9qn2f6hfkaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5VEsq72jCyw4bEozq2SIHIYNFwi5idI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771942512530-f35f8lafnqrrq88hudqob9qn2f6hfkaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
